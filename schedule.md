@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule and Material
+title: Schedule
 permalink: /schedule/
 nav_order: 2
 ---
