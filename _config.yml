@@ -29,8 +29,8 @@ search_enabled: false
 # Build settings
 markdown: kramdown
 # theme: minima
-#theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+#remote_theme: just-the-docs
 plugins:
   - jekyll-feed
 
@@ -47,3 +47,5 @@ plugins:
 #   - vendor/ruby/
 
 color_scheme: light
+
+heading_anchors: false
