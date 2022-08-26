@@ -19,7 +19,7 @@ description: CMSC730 page Fall 2022
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/my-jekyll-docker-website" # the subpath of your site, e.g. /blog
+baseurl: "/CMSC730" # the subpath of your site, e.g. /blog
 url: "https://billynew.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
