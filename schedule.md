@@ -2,7 +2,7 @@
 layout: page
 title: Schedule and Material
 permalink: /schedule/
-nav_order: 1
+nav_order: 2
 ---
 Links to lecture slides , optional readings, and assignments will be posted in the table below by the time of the lecture or the release of the assignment. <br> <br>
 [](){: .btn .btn-blue } is the lecture slides.
