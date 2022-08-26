@@ -17,9 +17,6 @@ The course consists of four modules. (1) **lectures**, through which we will exa
 |[ELMS Page](https://umd.instructure.com/courses/1328656){: .btn .btn-purple }|[Piazza Page](https://piazza.com/class/l6zhfsfh49619d){: .btn .btn-purple }|[Contact TA](mailto:zeyuy@umd.edu){: .btn .btn-purple } |[Contact Instructor](mailto:huaishu@umd.edu){: .btn .btn-purple }
 
 
-Stable
-{: .label .label-green }
-
-|`location and time` | Monday & Wednesday, 3:30pm – 4:45am, IRB 2207
-|`instructor office hours` | blablabla
-|`TA office hours` | blablabla {: .label .label-blue }
+|[LOCATION AND TIME](){: .label .label-green } | Monday & Wednesday, 3:30-4:45, [IRB2207](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
+|[INSTRUCTOR OFFICE HOURS](){: .label .label-green } | Wednesday, 2:00-3:00, [IRB4206](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/) or [Zoom](https://umd.zoom.us/my/huaishu)|
+|[TA OFFICE HOURS](){: .label .label-green } | Monday, 2:00-3:00, [IRB0102](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
