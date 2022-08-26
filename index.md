@@ -5,7 +5,7 @@
 layout: home
 ---
 
-### Welcome to CMSC730 Interactive Technology for Human-Computer Interaction!
+
 
 This is a graduate-level, research-oriented course covering broad areas of interactive technology and [human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI) topics, _e.g._, [ubiquitous computing](https://en.wikipedia.org/wiki/Ubiquitous_computing), [wearables](https://en.wikipedia.org/wiki/Wearable_technology), [virtual/augmented reality](https://en.wikipedia.org/wiki/Reality%E2%80%93virtuality_continuum), [haptics](https://en.wikipedia.org/wiki/Haptic_technology), [tangible UIs](https://en.wikipedia.org/wiki/Tangible_user_interface), [accessibility](https://www.usability.gov/what-and-why/accessibility.html), and [Interactive fabrication](https://en.wikipedia.org/wiki/Digital_modeling_and_fabrication).
 
