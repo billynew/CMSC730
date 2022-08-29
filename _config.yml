@@ -49,3 +49,6 @@ plugins:
 color_scheme: light
 
 heading_anchors: false
+
+footer_content: "<a href=\"https://www.umd.edu/web-accessibility\">Web Accessibility</a>"
+
