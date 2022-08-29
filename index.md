@@ -24,3 +24,7 @@ The course consists of four modules. (1) **lectures**, through which we will exa
 |[LOCATION AND TIME](){: .label .label-green } | Monday & Wednesday, 3:30-4:45, [IRB2207](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
 |[INSTRUCTOR OFFICE HOURS](){: .label .label-green } | Wednesday, 2:00-3:00, [IRB4206](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/) or [Zoom](https://umd.zoom.us/my/huaishu)|
 |[TA OFFICE HOURS](){: .label .label-green } | Monday, 2:00-3:00, [IRB0102](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
+
+
+### Acknowledgment
+CMSC730 is designed by [Huaishu Peng](www.huaishu.me), who takes great inspiration from a suite of course materials designed by the following faculties: [Prof. François Guimbretière](https://www.cs.cornell.edu/~francois/) and [Prof. Cheng Zhang](http://www.czhang.org/) @ Cornell, Prof. [Stefanie Mueller](https://hcie.csail.mit.edu/stefanie-mueller.html) @ MIT, Prof. [Jon Froehlich](https://jonfroehlich.github.io/) @ UW, and Prof. [Bilge Mutlu](http://bilgemutlu.com/) @ WISC. If you find an error please [contact me here](mailto:huaishu@umd.edu).
