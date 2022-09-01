@@ -13,7 +13,7 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 [A](){: .label .label-purple } links to weekly assignment.
 
 | **Lectures**                     |   **Labs \| Mini Competition \|  Semester-Long Project**            |
-| Mon Aug 29 <br> [Course Overview](assets/pdf/lectures/0-Overview.pdf){: .btn .btn-blue }                            | Wed Aug 31 <br> [3D Modeling 1 - Basics](){: .btn .btn-purple   } <br> [A](assets/pdf/assignments/CMSC730_Fall22_A1.pdf){: .label .label-purple }|
+| Mon Aug 29 <br> [Course Overview](assets/pdf/lectures/0-Overview.pdf){: .btn .btn-blue }                            | Wed Aug 31 <br> [3D Modeling 1 - Basics](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9561f4c-006c-453a-bf04-af03011525b4){: .btn .btn-purple   } <br> [A](assets/pdf/assignments/CMSC730_Fall22_A1.pdf){: .label .label-purple }|
 | Mon Sep 5 <br> No Class \| Laber Day \| [Milestone 0 - Team decided](){: .label .label-red }                        | Wed Sep 7 <br> [3D Modeling 2 - Assembly](){: .btn .btn-purple   } <br> [A](){: .label .label-purple }|
 | Mon Sep 12 <br> [Multitouch](){: .btn .btn-blue } <br>[R1](){: .label .label-green }[R2](){: .label .label-green }                                 | Wed Sep 14 <br> [Milestone 1 - Idea Presentation](){: .label .label-red } | 
 | Mon Sep 19 <br> [ Smartphone/Watch Interaction](){: .btn .btn-blue } <br>[R1](){: .label .label-green }[R2](){: .label .label-green }             | Wed Sep 21 <br> [Electronics - Digital IO](){: .btn .btn-purple} <br> [A](){: .label .label-purple }|
