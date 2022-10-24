@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Mini Competition
+title: Robot Competition
 permalink: /competition/
 nav_order: 3
 ---
@@ -13,12 +13,12 @@ nav_order: 3
 Hi all, in this monthly-long project, you are going to **design, build, and prototype** a working bridge-crossing robot. Here is a [detailed documentation](assets/pdf/assignments/Robot_Design_Competition.pdf) of the competition requirment. Read it thouougly will be helpful for the project. 
 
 ### Design Constraints and Requirments
-The basic function of your robot is to move along a 'bridge', as showed in Figure X. The bridge is a XX cm long, XX dia tube wrapped with a layer of soft foam. You will try to move your robot from the start --- one end of the tube to the other end, then come back.
+The basic function of your robot is to move along a ``bridge''. The bridge is about 1 meter long and is wrapped with a layer of soft foam. You will try to move your robot from the start --- one end of the tube to the other end, then come back. The bridge is installed in Sandbox and you are free to test your design any time before the competition day.
 
-For this project, there is no dedicated design you should follow. In other words, as a designer and prototyper, you are free to design the bot and its climbing mechanism however you want. Although, as there is no project without limitation on resource, here are four design requirements that you should follow:
+For this project, there is no dedicated design you should follow. In other words, as a designer and prototyper, you are free to design the bot and its climbing mechanism however you want. Although, as there is no project without limitations on resources, here are four design requirements that you should follow:
 
 <ul>
-    <li>Only one ESP32, one motor driver, and one gear motor are allowed in your design. Figure XX shows the motor driver and the gear motor. Alternatively, you are allowed to substitute the dc motor with the servo motor that is provided in your kit. In this way, you will not allowed to use the gear motor, hence no motor driver is needed. You are allowed to use other non-actuation components in your design, e.g. IMU. If you are not sure whether certain parts can be used for your project, consult your instructor and TA.</li>
+    <li>Only one ESP32, one motor driver, and one gear motor are allowed in your design. Alternatively, you are allowed to substitute the dc motor with the servo motor that is provided in your kit. In this way, you will not allowed to use the gear motor, hence no motor driver is needed. You are allowed to use other non-actuation components in your design, e.g. IMU. If you are not sure whether certain parts can be used for your project, consult your instructor and TA.</li>
     <li>Your robot will be powered via either the usb cable provided, or a 7.4v 250-350 mah Li-Po battery. Note that there are advantages and disadvantages both ways, please read the "Hint" section for more information.</li>
     <li>Your robot has to be controlled by a laptop via keyboard. There should be at least 3 commands functional: move left, move right and stop. You can choose to send the command either via Bluetooth or serial (closely related to how do you want to power your robot). You can also implement WIFI connection between your laptop and your esp32, however, since WIFI drains the battery really quickly and router won't be provided at the competition, we don't recommend WIFI as your first choice. But if you do decide on using WIFI, please make sure you can accommodate your robot with proper power source and connection at the competition.</li>
     <li>You should design your robot self-contained. That is, your robot should hold all the electronics, except the usb cable if you decide to use one. Any Free hanging/moving motor, battery, breakout board, bread board, etc. will lead to points off. Any glue or tape will also lead to points off. We will provide a set of M2 bolts and nuts to work with, you are welcome to introduce any hardware you have access to into your assembly. Note that the batteries are going to be for shared use, so you should design your battery holder easy to access and easy to get battery in and out.</li>
