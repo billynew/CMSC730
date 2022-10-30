@@ -39,12 +39,13 @@ To accommodate this competition and your robot development, Sandbox is generousl
 The setup includes:
 
 <ul>
-    <li>he "bridge" your robot will be crossing.</li>
-    <li>10 of 7.4v 250-300mah Li-Po batteries, for sharing.</li>
-    <li>Battery charger.</li>
+    <li>The "bridge" your robot will be crossing.</li>
+    <li>8 of 7.4v 250-300mah Li-Po batteries, for sharing.</li>
 </ul>
 
-Please charge the battery to full and unplug them from the battery charger before you leave or hand uncharged batteries to the group who can keep them attended until they are fully charged to unplug them from the charger.
+These batteries have been charged to full. If you find a battery run out, bring it down to 0102 and we will charge it
+for you.
+
 
 The prototyping workflow of Assignment 2 (radar fixture) applies in this project. You can use any 3D printers (please make sure you finished the training for any machines you are using, and ask for help if you are not sure what to do) in the Sandbox for prototyping, we will buy filament directly for Sandbox as compensation. Please follow their rules when it comes to printer management.
 
