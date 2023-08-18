@@ -18,7 +18,7 @@ The course consists of four modules. (1) **lectures**, through which we will exa
 
 ### Course Resources
 
-|[ELMS Page](https://umd.instructure.com/courses/1328656){: .btn .btn-purple }|[Piazza Page](https://piazza.com/class/l6zhfsfh49619d){: .btn .btn-purple }|[Contact TA](mailto:zeyuy@umd.edu){: .btn .btn-purple } |[Contact Instructor](mailto:huaishu@umd.edu){: .btn .btn-purple }
+|[ELMS Page](https://umd.instructure.com/courses/1350153){: .btn .btn-purple }|[Piazza Page](https://piazza.com/class/llh67z01nl3rd){: .btn .btn-purple }|[Contact TA](mailto:zeyuy@umd.edu){: .btn .btn-purple } |[Contact Instructor](mailto:huaishu@umd.edu){: .btn .btn-purple }
 
 
 |[LOCATION AND TIME](){: .label .label-green } | Monday & Wednesday, 3:30-4:45, [IRB2107](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|

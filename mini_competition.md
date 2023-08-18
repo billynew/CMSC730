@@ -6,6 +6,7 @@ layout: page
 title: Robot Competition
 permalink: /competition/
 nav_order: 3
+nav_exclude: true
 ---
 
 ### Robot Competition!
