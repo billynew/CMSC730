@@ -13,7 +13,7 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 [A](){: .label .label-purple } links to weekly assignment.
 
 | **Lectures**                     |   **Labs \| Mini Competition \|  Semester-Long Project**            |
-| Mon Aug 28 <br> [Course Overview](assets/pdf/lectures/0-Overview.pdf){: .btn .btn-blue }                            | Wed Aug 30 <br> [3D Modeling 1 - Basics](){: .btn .btn-purple   } <br> [A1](){: .label .label-purple }|
+| Mon Aug 28 <br> [Course Overview](assets/pdf/lectures/0-Overview.pdf){: .btn .btn-blue }                            | Wed Aug 30 <br> [3D Modeling 1 - Basics](){: .btn .btn-purple   } <br> [A1](assets/pdf/assignments/Assignment_Fall23_A1.pdf){: .label .label-purple }|
 | Mon Sep 4 <br> No Class \| Laber Day \| [Milestone 0 - Team decided](){: .label .label-red }                        | Wed Sep 6 <br> [3D Modeling - Assembly / Milestone 1 Example](){: .btn .btn-purple   } <br> [A2](){: .label .label-purple }|
 | Mon Sep 11 <br> [Multitouch](){: .btn .btn-blue } <br>[R1](){: .label .label-green }[R2](){: .label .label-green }                                 | Wed Sep 13 <br> [Milestone 1 - Idea Presentation](){: .label .label-red } | 
 | Mon Sep 18 <br> [ Smartphone Interaction](){: .btn .btn-blue } <br>[R1](){: .label .label-green }[R2](){: .label .label-green }             | Wed Sep 20 <br> [Wearables](){: .btn .btn-blue} <br> [R1](){: .label .label-green }[R2](){: .label .label-green }|
