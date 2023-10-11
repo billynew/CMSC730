@@ -23,7 +23,7 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 | Mon Oct 16 <br> [Haptics](){: .btn .btn-blue }   <br>[R1](){: .label .label-green }[R2](){: .label .label-green }           | Wed Oct 18 <br> [Electronics: IMU 2 ](){: .btn .btn-purple} <br> [A7](){: .label .label-purple }|
 | Mon Oct 23 <br> [VR and Haptics](){: .btn .btn-blue }  <br>[R1](){: .label .label-green }[R2](){: .label .label-green }            | Wed Oct 25 <br> [Project Clinics](){: .btn .btn-blue }            |
 | Mon Oct 30 <br> [Competition Preparation](){: .label .label-yellow } | Wed Nov 2 <br> [Competition Preparation](){: .label .label-yellow } |
-| Mon Nov 6 <br> [MILESTONE 2](){: .btn .btn-red }    <br>[R1](){: .label .label-green }[R2](){: .label .label-green }          | Wed Nov 8 <br> [Electronics: Shift Register](){: .btn .btn-purple} <br> [A8](){: .label .label-purple }|
+| Mon Nov 6 <br> [MILESTONE 2](){: .label .label-red }    <br>[R1](){: .label .label-green }[R2](){: .label .label-green }          | Wed Nov 8 <br> [Electronics: Shift Register](){: .btn .btn-purple} <br> [A8](){: .label .label-purple }|
 | Mon Nov 13 <br> [Accessibility ](){: .btn .btn-blue }            | Wed Nov 15 <br> [Competition](){: .label .label-yellow } |
 | Mon Nov 20 <br> [Fabrication 1](){: .btn .btn-blue }  <br>[R1](){: .label .label-green }[R2](){: .label .label-green }            | Wed Nov 22 <br> No Class \| Thanksgiving |
 | Mon Nov 27 <br> [Fabrication 2](){: .btn .btn-blue }   <br>[R1](){: .label .label-green }[R2](){: .label .label-green }           | Wed Nov 29 <br> [Laser Cutting Demo](){: .btn .btn-purple} <br> [A9](){: .label .label-purple }|
