@@ -22,11 +22,11 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 | Mon Oct 9 <br> [Display](assets/pdf/lectures/12-Display.pdf){: .btn .btn-blue }    <br>[R1](https://dl.acm.org/doi/abs/10.1145/3313831.3376249){: .label .label-green }[R2](https://dl.acm.org/doi/abs/10.1145/3025453.3025704){: .label .label-green }          | Wed Oct 11 <br> [Electronics: IMU 1 and I2C](assets/pdf/lectures/13-IMU-I2C.pdf){: .btn .btn-purple} <br> [A6](assets/pdf/assignments/Assignment_Fall23_A6.pdf){: .label .label-purple } [Datasheet](assets/file/PS-MPU-9250A-01-v1.1.pdf){: .label .label-purple } [RegisterMap](assets/file/MPU-9250-Register-Map.pdf){: .label .label-purple }|
 | Mon Oct 16 <br> [Haptics](){: .btn .btn-blue }   <br>[R1](){: .label .label-green }[R2](){: .label .label-green }           | Wed Oct 18 <br> [Electronics: IMU 2 ](){: .btn .btn-purple} <br> [A7](){: .label .label-purple }|
 | Mon Oct 23 <br> [VR and Haptics](){: .btn .btn-blue }  <br>[R1](){: .label .label-green }[R2](){: .label .label-green }            | Wed Oct 25 <br> [Project Clinics](){: .btn .btn-blue }            |
-| Mon Oct 30 <br> [Milestone 2 - Midterm Presentation (Video Submission)](){: .label .label-red } | Wed Nov 2 <br> [Competition Preparation](){: .label .label-yellow } |
-| Mon Nov 6 <br> [Fabrication 1](){: .btn .btn-blue }    <br>[R1](){: .label .label-green }[R2](){: .label .label-green }          | Wed Nov 8 <br> [Electronics: Shift Register](){: .btn .btn-purple} <br> [A8](){: .label .label-purple }|
+| Mon Oct 30 <br> [Competition Preparation](){: .label .label-yellow } | Wed Nov 2 <br> [Competition Preparation](){: .label .label-yellow } |
+| Mon Nov 6 <br> [MILESTONE 2](){: .btn .btn-red }    <br>[R1](){: .label .label-green }[R2](){: .label .label-green }          | Wed Nov 8 <br> [Electronics: Shift Register](){: .btn .btn-purple} <br> [A8](){: .label .label-purple }|
 | Mon Nov 13 <br> [Accessibility ](){: .btn .btn-blue }            | Wed Nov 15 <br> [Competition](){: .label .label-yellow } |
-| Mon Nov 20 <br> [Fabrication 2 - Laser Cutting ](){: .btn .btn-blue }  <br>[R1](){: .label .label-green }[R2](){: .label .label-green }            | Wed Nov 22 <br> No Class \| Thanksgiving |
-| Mon Nov 27 <br> [Fabrication 3](){: .btn .btn-blue }   <br>[R1](){: .label .label-green }[R2](){: .label .label-green }           | Wed Nov 29 <br> [Laser Cutting Demo](){: .btn .btn-purple} <br> [A9](){: .label .label-purple }|
+| Mon Nov 20 <br> [Fabrication 1](){: .btn .btn-blue }  <br>[R1](){: .label .label-green }[R2](){: .label .label-green }            | Wed Nov 22 <br> No Class \| Thanksgiving |
+| Mon Nov 27 <br> [Fabrication 2](){: .btn .btn-blue }   <br>[R1](){: .label .label-green }[R2](){: .label .label-green }           | Wed Nov 29 <br> [Laser Cutting Demo](){: .btn .btn-purple} <br> [A9](){: .label .label-purple }|
 | Mon Dec 4 <br> [Research Out Look ](){: .btn .btn-blue }              | Wed Dec 6 <br> [Final Project Clinics ](){: .btn .btn-blue} |
 | Mon Dec 11 <br> [Milestone 3 - DEMO Day! ](){: .label .label-red }              | |
 
