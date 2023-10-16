@@ -6,7 +6,7 @@ layout: page
 title: Robot Competition
 permalink: /competition/
 nav_order: 3
-nav_exclude: true
+nav_exclude: false
 ---
 
 ### Robot Competition!
@@ -41,7 +41,7 @@ The setup includes:
 
 <ul>
     <li>The "bridge" your robot will be crossing.</li>
-    <li>8 of 7.4v 250-300mah Li-Po batteries, for sharing.</li>
+    <li>7.4v 250-300mah Li-Po batteries, for sharing.</li>
 </ul>
 
 These batteries have been charged to full. If you find a battery run out, bring it down to 0102 and we will charge it
