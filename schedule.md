@@ -24,9 +24,9 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 | Mon Oct 23 <br> [VR and Haptics](assets/pdf/lectures/16-VR_and_Haptics-1.pdf){: .btn .btn-blue }  <br>[R1](){: .label .label-green }[R2](){: .label .label-green }            | Wed Oct 25 <br> [Project Clinics](){: .btn .btn-blue }            |
 | Mon Oct 30 <br> [Competition Preparation](){: .label .label-yellow } | Wed Nov 2 <br> [Competition Preparation](){: .label .label-yellow } |
 | Mon Nov 6 <br> [MILESTONE 2](){: .label .label-red }            | Wed Nov 8 <br> [Electronics: Shift Register](assets/pdf/lectures/17-Shfit_Register.pdf){: .btn .btn-purple} <br> [A8](assets/pdf/assignments/Assignment_Fall23_A8.pdf){: .label .label-purple }|
-| Mon Nov 13 <br> [Laser Cutting Training ](){: .btn .btn-purple }            | Wed Nov 15 <br> [Competition](){: .label .label-yellow } |
-| Mon Nov 20 <br> [Fabrication 1](){: .btn .btn-blue }  <br>[R1](){: .label .label-green }[R2](){: .label .label-green }            | Wed Nov 22 <br> No Class \| Thanksgiving |
-| Mon Nov 27 <br> [Fabrication 2](){: .btn .btn-blue }   <br>[R1](){: .label .label-green }[R2](){: .label .label-green }           | Wed Nov 29 <br> [Laser Cutting Demo](){: .btn .btn-purple} <br> [A9](){: .label .label-purple }|
+| Mon Nov 13 <br> [Laser Cutting Training ](){: .btn .btn-purple } <br> [A9](assets/pdf/assignments/Assignment_Fall23_A9.pdf){: .label .label-purple }           | Wed Nov 15 <br> [Competition](){: .label .label-yellow } |
+| Mon Nov 20 <br> [Fabrication 1 - Laser Cutting](assets/pdf/lectures/18-Laser_Cut.pdf){: .btn .btn-blue }  <br>[R1](https://dl.acm.org/doi/fullHtml/10.1145/3526113.3545652){: .label .label-green }[R2](https://dl.acm.org/doi/abs/10.1145/3411764.3445692){: .label .label-green }            | Wed Nov 22 <br> No Class \| Thanksgiving |
+| Mon Nov 27 <br> [Fabrication 2 - Additive Manufacturing](){: .btn .btn-blue }   <br>[R1](){: .label .label-green }[R2](){: .label .label-green }           | Wed Nov 29 <br> [Laser Cutting Demo](){: .btn .btn-purple} <br> [A9](){: .label .label-purple }|
 | Mon Dec 4 <br> [Research Out Look ](){: .btn .btn-blue }              | Wed Dec 6 <br> [Final Project Clinics ](){: .btn .btn-blue} |
 | Mon Dec 11 <br> [Milestone 3 - DEMO Day! ](){: .label .label-red }              | |
 
