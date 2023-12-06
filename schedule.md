@@ -27,7 +27,7 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 | Mon Nov 13 <br> [Laser Cutting Training ](){: .btn .btn-purple } <br> [A9](assets/pdf/assignments/Assignment_Fall23_A9.pdf){: .label .label-purple }           | Wed Nov 15 <br> [Competition](){: .label .label-yellow } |
 | Mon Nov 20 <br> [Fabrication 1 - Laser Cutting](assets/pdf/lectures/18-Laser_Cut.pdf){: .btn .btn-blue }  <br>[R1](https://dl.acm.org/doi/fullHtml/10.1145/3526113.3545652){: .label .label-green }[R2](https://dl.acm.org/doi/abs/10.1145/3411764.3445692){: .label .label-green }            | Wed Nov 22 <br> No Class \| Thanksgiving |
 | Mon Nov 27 <br> [Fabrication 2 - Additive Manufacturing](assets/pdf/lectures/19-Fabrication.pdf){: .btn .btn-blue }   <br>[R1](){: .label .label-green }[R2](){: .label .label-green }           | Wed Nov 29 <br> [OLED Display](assets/pdf/lectures/20-OLED_Display.pdf){: .btn .btn-purple} <br> [A10](assets/pdf/assignments/Assignment_Fall23_A10.pdf){: .label .label-purple }|
-| Mon Dec 4 <br> [Fabrication 3 - Interactive Fab ](){: .btn .btn-blue }              | Wed Dec 6 <br> [Final Project Clinics ](){: .btn .btn-blue} |
+| Mon Dec 4 <br> [Fabrication 3 - Interactive Fab ](assets/pdf/lectures/21-InteractiveFab.pdf){: .btn .btn-blue }              | Wed Dec 6 <br> [Final Project Clinics ](){: .btn .btn-blue} |
 | Mon Dec 11 <br> [Milestone 3 - DEMO Day! ](){: .label .label-red }              | |
 
 
