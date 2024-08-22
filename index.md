@@ -17,11 +17,11 @@ The course consists of four modules. (1) **lectures**, through which we will exa
 
 ### Course Resources
 
-|[ELMS Page](https://umd.instructure.com/courses/1350153){: .btn .btn-purple }|[Piazza Page](https://piazza.com/class/llh67z01nl3rd){: .btn .btn-purple }|[Contact TA](mailto:zeyuy@umd.edu){: .btn .btn-purple } |[Contact Instructor](mailto:huaishu@umd.edu){: .btn .btn-purple }
+|[ELMS Page](https://umd.instructure.com/courses/1350153){: .btn .btn-purple }|[Contact TA](mailto:zeyuy@umd.edu){: .btn .btn-purple } |[Contact Instructor](mailto:huaishu@umd.edu){: .btn .btn-purple }
 
 
-|[LOCATION AND TIME](){: .label .label-green } | Monday & Wednesday, 3:30-4:45, [IRB2107](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
-|[INSTRUCTOR OFFICE HOURS](){: .label .label-green } | Wednesday, 2:00-3:00, [IRB4206](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/) or [Zoom](https://umd.zoom.us/my/huaishu)|
+|[LOCATION AND TIME](){: .label .label-green } | Monday & Wednesday, 3:30-4:45, [IRB2207](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
+|[INSTRUCTOR OFFICE HOURS](){: .label .label-green } | Wednesday, 2:00-3:00, [IRB4126](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/) or [Zoom](https://umd.zoom.us/my/huaishu)|
 |[TA OFFICE HOURS](){: .label .label-green } | Monday, 2:00-3:00, [IRB0102](https://www.campus-maps.com/umd/the-brendan-iribe-center-irb/)|
 
 
