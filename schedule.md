@@ -13,7 +13,7 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 [A](){: .label .label-purple } links to weekly assignment.
 
 | **Lectures** |**Labs \| Mini Competition \|  Semester-Long Project**            |
-| Mon Aug 26 <br> [Course Overview](assets/pdf/lectures/){: .btn .btn-blue } | Wed Aug 28 <br> [3D Modeling 1 - Basics](){: .btn .btn-purple   } <br> [A1](assets/pdf/assignments/){: .label .label-purple }|
+| Mon Aug 26 <br> [Course Overview](assets/pdf/lectures/0-Overview.pdf){: .btn .btn-blue } | Wed Aug 28 <br> [3D Modeling 1 - Basics](){: .btn .btn-purple   } <br> [A1](assets/pdf/assignments/){: .label .label-purple }|
 | Mon Sep 2 <br> No Class \| Laber Day \| [Milestone 0 - Team decided](){: .label .label-red}                        | Wed Sep 4 <br> [Electronics - Digital IO / Milestone 1 Example](assets/pdf/lectures/){: .btn .btn-purple   } <br> [A2](assets/pdf/assignments/){: .label .label-purple }|
 | Mon Sep 9 <br> [Multitouch](assets/pdf/lectures/){: .btn .btn-blue } <br>[R1](https://dl.acm.org/doi/abs/10.1145/502348.502389){: .label .label-green }[R2](https://dl.acm.org/doi/abs/10.1145/3332165.3347873){: .label .label-green }                                 | Wed Sep 11 <br> [Milestone 1 - Idea Presentation](){: .label .label-red } | 
 | Mon Sep 16 <br> [Smartphone Interaction](assets/pdf/lectures/){: .btn .btn-blue } <br>[R1](https://dl.acm.org/doi/10.1145/3290605.3300254){: .label .label-green }[R2](https://dl.acm.org/doi/10.1145/2501988.2502049){: .label .label-green }             | Wed Sep 18 <br> [3D Modeling 2: Assembly](assets/pdf/lectures/){: .btn .btn-purple }  <br>[A3](assets/pdf/assignments/){: .label .label-purple } |
