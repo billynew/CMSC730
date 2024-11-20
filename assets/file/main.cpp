@@ -1,10 +1,12 @@
 #include <Arduino.h>
 #include <Wire.h>
-#define SSD1306_I2C_ADDRESS 0x3C // Change to 0x3D if necessary
+#define SSD1306_I2C_ADDRESS 0x3C // SSD1306 address
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 #define BUFFER_SIZE (SCREEN_WIDTH * SCREEN_HEIGHT / 8)
+
 uint8_t buffer[BUFFER_SIZE]; // Screen buffer
+
 // Function to send a command to the SSD1306
 void sendCommand(uint8_t command)
 {
@@ -13,6 +15,7 @@ void sendCommand(uint8_t command)
   Wire.write(command);
   Wire.endTransmission();
 }
+
 // Initialize the SSD1306 display
 void initSSD1306()
 {
@@ -28,6 +31,7 @@ void initSSD1306()
   sendCommand(0x14); // Enable charge pump
   sendCommand(0xAF); // Display ON
 }
+
 // Clear the display buffer
 void clearBuffer()
 {
@@ -37,6 +41,7 @@ void clearBuffer()
   }
 }
 
+//Update the display per Page. 
 void updatePage(int i)
 {
   sendCommand(0xB0 | i); // Set the page address (0xB0 to 0xB7)
@@ -50,12 +55,14 @@ void updatePage(int i)
   }
   Wire.endTransmission();
 }
-// Update the display with the buffer contents
+
+// Update display following the default page addressing mode
 void updateDisplay()
 {
   for (int page = 0; page < 8; page++)
     updatePage(page);
 }
+
 // Draw a pixel in the buffer
 void drawPixel(uint8_t x, uint8_t y)
 {
