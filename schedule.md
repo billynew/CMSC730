@@ -27,7 +27,7 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 | Mon Nov 11 <br> [Fabrication 2 - Laser](assets/pdf/lectures/19-Laser_Cut.pdf){: .btn .btn-blue }                              | Wed Nov 13 <br> [Robot Competition](){: .label .label-yellow } |
 | Mon Nov 18 <br> [Laser Cut Training ](){: .btn .btn-blue }  <br> [A9](assets/pdf/assignments/Assignment_9.pdf){: .label .label-purple }                                                                                                                                     | Wed Nov 20 <br> [OLED Display](assets/pdf/lectures/20-OLED_Display.pdf){: .btn .btn-purple} <br> [Datasheet](assets/file/SSD1306.pdf){: .label .label-purple } [Example](assets/file/main.cpp){: .label .label-purple }  [A10](assets/pdf/assignments/Assignment_10.pdf){: .label .label-purple } |
 | Mon Nov 25 <br> [Personal Fabrication](assets/pdf/lectures/21-InteractiveFab.pdf){: .btn .btn-blue } | Wed Nov 27 <br> No Class | Thanksgiving |
-| Mon Dec 2 <br> [Accessibility ](assets/pdf/lectures/){: .btn .btn-blue }                                                      | Wed Dec 4 <br> [Final Project Clinics ](){: .btn .btn-blue} |
+| Mon Dec 2 <br> [Accessibility ](assets/pdf/lectures/22-Accessibility.pdf){: .btn .btn-blue }                                                      | Wed Dec 4 <br> [Final Project Clinics ](){: .btn .btn-blue} |
 | Mon Dec 9 <br> [Milestone 3 - DEMO Day! ](){: .label .label-red }              | |
 
 
