@@ -13,7 +13,7 @@ gem "jekyll", "~> 3.9.2"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
-gem "just-the-docs"
+gem "just-the-docs", "~> 0.7"
 
 gem "faraday-retry"
 
@@ -45,3 +45,5 @@ gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
+
+gem "logger", "< 1.6"
