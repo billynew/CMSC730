@@ -16,7 +16,7 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 
 | **Lectures** |**Labs \| Mini Competition \|  Semester-Long Project**            |
 | Tu Jan 27 <br> [No Class](){: .btn .btn-blue }                                            | Th Jan 29 <br> [No Class](){: .btn .btn-blue } |
-| Tu Feb 3 <br>  [Class Overview](assets/pdf/lectures/0-Overview.pdf){: .btn .btn-blue }<br>|Th Feb 5 <br> [3D Modeling 1 - Basics](){: .btn .btn-purple   } <br> [A1](){: .label .label-purple }  <br> |
+| Tu Feb 3 <br>  [Class Overview](assets/pdf/lectures/0-Overview.pdf){: .btn .btn-blue }<br>|Th Feb 5 <br> [3D Modeling 1 - Basics](){: .btn .btn-purple   } <br> [A1](assets/pdf/assignments/Assignment_1.pdf){: .label .label-purple }  <br> |
 | Tu Feb 10 <br> [Multitouch](){: .btn .btn-blue } <br>[R1](https://dl.acm.org/doi/abs/10.1145/502348.502389){: .label .label-green }[R2](https://dl.acm.org/doi/abs/10.1145/3332165.3347873){: .label .label-green }  [Milestone 0 - Team decided](){: .label .label-red} | Th Feb 12 <br> [Electronics - Digital IO / Milestone 1 Example](){: .btn .btn-purple   } <br> [A2](){: .label .label-purple }  | 
 | Tu Feb 17 <br> [Smartphone Interaction](){: .btn .btn-blue} <br>[R1](https://dl.acm.org/doi/10.1145/3290605.3300254){: .label .label-green}[R2](https://dl.acm.org/doi/10.1145/2501988.2502049){: .label .label-green }|Th Feb 19 <br> [Milestone 1 - Idea Presentation](){: .label .label-red } |
 | Tu Feb 24 <br> [Wearable](){: .btn .btn-blue } <br> [R1](https://dl.acm.org/doi/pdf/10.1145/2556288.2556955){: .label .label-green }[R2](https://dl.acm.org/doi/pdf/10.1145/3290605.3300245){: .label .label-green } | Th Feb 26 <br>  [Electronics: Analog and Sensing](){: .btn .btn-purple }  <br>[A3](){: .label .label-purple } 
