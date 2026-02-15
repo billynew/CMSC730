@@ -1,11 +1,24 @@
-_site
-.sass-cache
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-assets/pdf/lectures/.DS_Store
-assets/pdf/.DS_Store
 
-assets/.DS_Store
+# Bundler / Ruby dependencies and cache
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+
+# macOS metadata and filesystem artifacts
 .DS_Store
-assets/pdf/.DS_Store
-.DS_Store
-assets/pdf/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+Icon?
