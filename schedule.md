@@ -27,7 +27,7 @@ Links to lecture slides , optional readings, and assignments will be posted in t
 | Tu Mar 31 <br>  [2nd Milestone Presentation](){: .label .label-red }  <br>[R1](https://dl.acm.org/doi/pdf/10.1145/2493432.2493463){: .label .label-green }[R2](https://dl.acm.org/doi/pdf/10.1145/1866029.1866074){: .label .label-green } | Tr Apr 2 <br> [Electronics: IMU2](assets/pdf/lectures/13-IMU-I2C.pdf){: .btn .btn-purple}  | 
 | Tu Apr 7 <br>    [VR and Haptics](){: .btn .btn-blue } <br>[R1](https://dl.acm.org/doi/fullHtml/10.1145/3526113.3545652){: .label .label-green }[R2](https://dl.acm.org/doi/abs/10.1145/3411764.3445692){: .label .label-green }  | Th Apr 9 <br> [OLED Display](){: .btn .btn-purple} <br> [Datasheet](assets/file/SSD1306.pdf){: .label .label-purple } [Example](assets/file/main.cpp){: .label .label-purple }{: .btn .btn-purple} <br> |
 | Tu Apr 14 <br>  [Working on Robot Competition](){: .label .label-yellow } | Th Apr 16 <br>  [Robot Competition](){: .label .label-yellow } |
-| Tu Apr 21 <br> [Display](assets/pdf/lectures/14-Display.pdf){: .btn .btn-blue }   | Th Apr 23 <br>  [Shift Register](){: .btn .btn-purple} <br> [A6](assets/pdf/assignments/Assignment_6.pdf){: .label .label-purple }  | 
+| Tu Apr 21 <br> [Display](assets/pdf/lectures/14-Display.pdf){: .btn .btn-blue }   | Th Apr 23 <br>  [Shift Register](assets/pdf/lectures/17-Shfit_Register.pdf){: .btn .btn-purple} <br> [A6](assets/pdf/assignments/Assignment_6.pdf){: .label .label-purple }  | 
 | Tu Apr 28 <br> [Fabrication](){: .btn .btn-blue }   | Th Apr 30 <br> [Final Project Clinic ](){: .label .label-red } |
 | Tu May 5 <br> [Accessibility ](){: .btn .btn-blue }  | Th May 7 <br> [Milestone 3 - DEMO Day! ](){: .label .label-red }  |
 
